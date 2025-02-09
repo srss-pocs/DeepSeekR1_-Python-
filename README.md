@@ -1,5 +1,8 @@
 # DeepSeekR1_-Python
 
+![image](https://github.com/user-attachments/assets/b4b3eb8b-5e39-4d37-a518-ee70d825ffc5)
+
+
 1. Go to DeepSeek-R1 Locally in Python and download Ollama Setup
 2. Install Ollama
    ![image](https://github.com/user-attachments/assets/9dbf3a21-5477-4d8f-9a82-9ce3fa822c41)
